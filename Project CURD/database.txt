@@ -1,0 +1,7 @@
+fiersabesari_2012_1,2012,fiersa besari,media kita,jejak langkah
+PramudyaAnantatoer_2001_1,2001,Pramudya Anantatoer,Grramedia,Bumi Manusia
+faqihza_2019_1,2019,faqihza,Gramedia,belajar C++
+faqihza_2019_2,2019,faqihza,Gramedia,belajar python
+Joni_2049_1,2049,Joni,Apa aja,Naik Kambing
+faqihza_2019_3,2019,faqihza,gramedia,belajar java
+thariq_2021_1,2021,thariq,gramedia,minecraft
